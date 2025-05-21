@@ -13,7 +13,7 @@ const Testimonials = () => {
                         <GlowCard card={testimonial}>
                             <div className="flex items-center gap-3">
                                 <div>
-                                    <img className="rounded-full" src={testimonial.imgPath} alt={testimonial.name} />
+                                    <img className="rounded-full" width={'46px'} height={'46px'} src={testimonial.imgPath} alt={testimonial.name} />
                                 </div>
                                 <div>
                                     <p className="font-bold">{testimonial.name}</p>

@@ -205,7 +205,7 @@ const testimonials = [
     mentions: "@nabeelahmad",
     review:
       "From front-end precision to back-end architecture, Muneeb demonstrates deep expertise in a wide range of technologies. He’s highly proficient in React.js, Next.js, Node.js, PostgreSQL, and his command over RESTful APIs, Git workflows, and modern JavaScript frameworks makes him a versatile and reliable developer.",
-    imgPath: "/images/client1.jpeg",
+    imgPath: "/images/client1.png",
   },
   // {
   //   name: "Wade Warren",
@@ -226,7 +226,7 @@ const testimonials = [
     mentions: "@maheenshah",
     review:
       "Muneeb was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-    imgPath: "/images/client5.png",
+    imgPath: "/images/client2.jfif",
   },
   // {
   //   name: "Floyd Miles",
