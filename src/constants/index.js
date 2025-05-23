@@ -206,53 +206,27 @@ const testimonials = [
     review:
       "From front-end precision to back-end architecture, Muneeb demonstrates deep expertise in a wide range of technologies. He’s highly proficient in React.js, Next.js, Node.js, PostgreSQL, and his command over RESTful APIs, Git workflows, and modern JavaScript frameworks makes him a versatile and reliable developer.",
     imgPath: "/images/client1.png",
+    link: "https://www.linkedin.com/in/nabeel-ahmad-69b0a91bb/"
   },
-  // {
-  //   name: "Wade Warren",
-  //   mentions: "@wadewarren",
-  //   review:
-  //     "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-  //   imgPath: "/images/client3.png",
-  // },
-  // {
-  //   name: "Guy Hawkins",
-  //   mentions: "@guyhawkins",
-  //   review:
-  //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  //   imgPath: "/images/client2.png",
-  // },
   {
     name: "Maheen Shah",
     mentions: "@maheenshah",
     review:
       "Muneeb was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
     imgPath: "/images/client2.jfif",
+    link: "https://www.linkedin.com/in/maheen-shah-997300160/"
   },
-  // {
-  //   name: "Floyd Miles",
-  //   mentions: "@floydmiles",
-  //   review:
-  //     "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-  //   imgPath: "/images/client4.png",
-  // },
-  // {
-  //   name: "Albert Flores",
-  //   mentions: "@albertflores",
-  //   review:
-  //     "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-  //   imgPath: "/images/client6.png",
-  // },
+  {
+    name: "Marcus Kennedy",
+    mentions: "@kenmark",
+    review:
+      "Muneeb was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+    imgPath: "/images/client5.png",
+    link: "https://www.linkedin.com/in/maheen-shah-997300160/"
+  },
 ];
 
 const socialImgs = [
-  // {
-  //   name: "insta",
-  //   imgPath: "/images/insta.png",
-  // },
-  // {
-  //   name: "fb",
-  //   imgPath: "/images/fb.png",
-  // },
   {
     name: "x",
     imgPath: "/images/x.png",

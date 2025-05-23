@@ -16,7 +16,7 @@ const Testimonials = () => {
                                     <img className="rounded-full" width={'46px'} height={'46px'} src={testimonial.imgPath} alt={testimonial.name} />
                                 </div>
                                 <div>
-                                    <p className="font-bold">{testimonial.name}</p>
+                                    <a href={testimonial.link} target="_blank" className="font-bold cursor-pointer">{testimonial.name}</a>
                                     <p className="text-white-50">{testimonial.mentions}</p>
                                 </div>
                             </div>
