@@ -42,7 +42,7 @@ const ShowcaseSection = () => {
 
                     <div className="first-project-wrapper" ref={project1Ref}>
                         <div className="image-wrapper">
-                            <img src="/images/project1.png" alt="Feres" />
+                            <img src="/images/project1.png" alt="Feres" width={840} height={212} />
                         </div>
                         <div className="text-content">
                             <h2>Food Ordering Made Simple with a Powerful, User-Friendly App called Feres</h2>
@@ -54,15 +54,15 @@ const ShowcaseSection = () => {
 
                     <div className="project-list-wrapper overflow-hidden">
                         <div className="project" ref={project2Ref}>
-                            <div className="image-wrapper bg-[#ffefdb]">
-                                <img src="/images/project2.png" alt="LMP" />
+                            <div className="image-wrapper bg-[#ffffff]">
+                                <img src="/images/project2.png" alt="Carhub" width={824} height={645} />
                             </div>
-                            <h2>Forever - An Ecommerce Store</h2>
+                            <h2>Carhub - A Car Showcase Site</h2>
                         </div>
 
                         <div className="project" ref={project3Ref}>
                             <div className="image-wrapper bg-[#0e0c0c]">
-                                <img src="/images/project3.png" alt="YC directory" />
+                                <img src="/images/project3.png" alt="Spotify Clone" width={824} height={645} />
                             </div>
                             <h2>Spotify Clone - Made with React JS</h2>
                         </div>
